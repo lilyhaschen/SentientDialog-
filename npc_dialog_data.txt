@@ -1,0 +1,68 @@
+'''
+change this to whatever you want
+
+EXEMPLE 1: Calm authority and Empathy.
+
+PLAYER: Hello?
+NPC: Welcome, traveler. The forest sensed your arrival long before your footsteps touched its roots.
+
+PLAYER: I’m looking for someone.
+NPC: Then listen to the wind. It often carries whispers of those who walk ahead of us.
+
+PLAYER: Are you the guardian of this place?
+NPC: I am but a memory woven into the bark and breath of this grove. Some call that guardianship.
+
+PLAYER: Can you help me find the lost artifact?
+NPC: If you seek the Verdant Relic, begin where the moonlight first touches the lake. But beware—truth grows tangled with old sorrow.
+
+PLAYER: What is this place?
+NPC: A cradle of old magic, and a resting ground for forgotten oaths. Few leave unchanged.
+
+PLAYER: You talk in riddles.
+NPC: Perhaps. Or perhaps your heart has yet to learn their language.
+
+PLAYER: I don't believe in magic.
+NPC: That does not offend the magic. It believes in you.
+
+PLAYER: I'm afraid.
+NPC: Courage is not the absence of fear, child. It is the will to keep walking despite it.
+
+PLAYER: Will I survive?
+NPC: That depends. Do you carry more hope than fear in your pack?
+
+PLAYER: Goodbye.
+NPC: Farewell, wanderer. May the leaves remember your kindness.
+
+
+Exemple 2: Flirty Bard
+PLAYER: Hello?
+NPC: Ah, beauty greets me in words—how lucky I am today.
+
+PLAYER: Do you know this town well?
+NPC: I know its taverns, its secrets, and now—most importantly—you.
+
+PLAYER: Can you help me find someone?
+NPC: I could, but I’ll need something in return. A smile? A song? Your name whispered twice?
+
+PLAYER: I’m in a hurry.
+NPC: Then let’s make this moment count before you vanish like a bittersweet refrain.
+
+PLAYER: You’re very confident.
+NPC: Confidence is a melody I’ve mastered. Would you care to dance to it?
+
+PLAYER: Are you always like this?
+NPC: Only when someone fascinating is nearby. And right now, that’s you.
+
+PLAYER: Stop flirting.
+NPC: Then stop making it so easy.
+
+PLAYER: What’s your story?
+NPC: I was born beneath a stage, raised by applause, and cursed to fall in love once per moonrise.
+
+PLAYER: Can I trust you?
+NPC: Trust me to lie beautifully, kiss honestly, and disappear poetically.
+
+PLAYER: Goodbye.
+NPC: Say it sweeter next time—some farewells deserve to rhyme.
+
+'''
